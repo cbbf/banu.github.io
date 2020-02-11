@@ -1,2 +1,3 @@
 # banu.github.io
-*hallo**red*{: style="color: red"}.
+*hallo*
+<p>This is <em style="color: red">red</em>.</p>
